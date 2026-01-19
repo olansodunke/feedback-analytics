@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "feedback-analytics",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "3d953eef-2cc2-4efd-afab-86efc96b7dc1",
+			"database_name": "mock_2data"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
